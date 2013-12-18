@@ -9,8 +9,11 @@ GmailThis! Dangerous Penguins Inc. henceforth referred to as GTDPI - Is a bookma
 GTDPI is essentially a very quick way to send a link through gmail. After clicking the bookmark the following happens;
 
 1: A new window will pop up
+
 2: The 'To' Field will be populated as you configure it to in the bookmarklet (just edit targetEmailAddress)
+
 3: The 'Subject' of the email filled out as the title of your current webpage followed by “--- (bookmark)” to make future searching more easy.
+
 4: The email 'Body' is whatever text you have highlighted followed by the URL of the current page. 
 
 Shortly after you click send the window will disappear.
