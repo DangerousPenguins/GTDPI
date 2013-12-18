@@ -6,7 +6,7 @@ GmailThis! Dangerous Penguins Inc.
 
 GmailThis! Dangerous Penguins Inc. henceforth referred to as GTDPI - Is a bookmarklet based on GmailThis! http://www.contrapants.org/2005/07/gmailthis.html  and GmailThis! for bookmarking http://nikak.blogspot.com/2005/12/txt-gmailthis-modified-for-bookmarking.html
 
-GTDPI is essentially a very quick way to send a link through gmail. After clicking the bookmark and the following happens;
+GTDPI is essentially a very quick way to send a link through gmail. After clicking the bookmark the following happens;
 
 1: A new window will pop up
 2: The 'To' Field will be populated as you configure it to in the bookmarklet (just edit targetEmailAddress)
