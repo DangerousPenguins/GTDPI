@@ -19,3 +19,5 @@ GTDPI is essentially a very quick way to send a link through gmail. After clicki
 Shortly after you click send the window will disappear.
 
 What's different about this and other GmailThis! Variations? The Java Script has been cleaned up and formatted to make it easier to customize and there is also a bugfix that allows the bookmarklet work on all page titles. Previously, some titles with special characters would fail to work.
+
+GTDPI
