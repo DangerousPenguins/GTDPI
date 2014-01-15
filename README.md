@@ -1,7 +1,8 @@
 GTDPI
 =====
 
-GmailThis! Dangerous Penguins Inc.
+GmailThis! [Dangerous Penguins Inc.](http://dangerouspenguins.com/)
+
 
 
 GmailThis! Dangerous Penguins Inc. henceforth referred to as GTDPI - Is a bookmarklet based on GmailThis! http://www.contrapants.org/2005/07/gmailthis.html  and GmailThis! for bookmarking http://nikak.blogspot.com/2005/12/txt-gmailthis-modified-for-bookmarking.html
@@ -20,4 +21,3 @@ Shortly after you click send the window will disappear.
 
 What's different about this and other GmailThis! Variations? The Java Script has been cleaned up and formatted to make it easier to customize and there is also a bugfix that allows the bookmarklet work on all page titles. Previously, some titles with special characters would fail to work.
 
-GTDPI
