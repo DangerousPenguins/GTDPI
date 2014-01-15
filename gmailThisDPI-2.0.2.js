@@ -26,7 +26,7 @@ else if (document.getSelection) {
 }
 
 /* Setup the GMail field data */
-gmailURL = "https://mail.google.com/mail?view=cm&ui=1&tf=0&";
+gmailURL = 'https://mail.google.com/mail?view=cm&ui=1&tf=0&';
 targetEmailAddress = encodeURI(targetEmailAddress);
 emailSubject = encodeURI(document.title);
 emailBody= encodeURI(selectedText +'\n\n' + location.href);
